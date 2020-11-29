@@ -20,6 +20,6 @@ Returns the coefficients of the linear regression of X and Y and the correspondi
 My Linear Regression
 }
 \examples{
-
+myLinearRegression(Data$Y,Data[,2:6],list(1,2,3,4))
 
 }

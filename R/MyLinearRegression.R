@@ -8,7 +8,7 @@
 #' @export
 #'
 #' @examples
-#'
+#' myLinearRegression(Data$Y,Data[,2:6],list(1,2,3,4))
 #'
 myLinearRegression <- function(Y,X,sub){
   outputs <- list()
