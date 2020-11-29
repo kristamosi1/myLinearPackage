@@ -7,9 +7,8 @@ Authors@R:
            role = c("aut", "cre"),
            email = "kmosi1@vt.edu",
            comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: This package runs a linear regression on given values of X and Y. It returns a plot of the covariates and the coeffiecients and corresponding p-values of the regression.
-License: `use_mit_license()`, `use_gpl3_license()` or friends to
-    pick a license
+Description: This package runs a linear regression on given values of X and Y. It returns a plot of the covariates and the coefficients and corresponding p-values of the regression.
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
